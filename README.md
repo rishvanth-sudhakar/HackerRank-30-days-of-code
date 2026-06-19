@@ -24,7 +24,7 @@ The 30 Days of Code challenge is designed to strengthen programming fundamentals
 - Regular Expressions
 - Time Complexity and More
 
-## Goal
+# Goal
 To improve problem-solving skills, coding efficiency, and understanding of Python programming concepts through consistent practice.
 
 ## Platform
