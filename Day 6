@@ -1,0 +1,13 @@
+# Read the number of test cases
+t = int(input())
+
+# Loop through each test case
+for _ in range(t):
+    s = input()
+    
+    # Extract even-indexed and odd-indexed characters using slicing
+    even_chars = s[0::2]
+    odd_chars = s[1::2]
+    
+    # Print them separated by a space
+    print(f"{even_chars} {odd_chars}")
